@@ -4,6 +4,7 @@
   "description": "CRM backend",
   "main": "server.js",
   "scripts": {
+    "star" : "node server.js",
     "test": "jest"
   },
   "author": "AbhinavChandurkar",
